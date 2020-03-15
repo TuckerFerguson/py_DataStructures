@@ -1,6 +1,8 @@
 This repo contains various implementations of data structures written using
 Python.
 
-- Stack 
+- Binary Tree
 - Queue
-- Single Linked List
+- Stack
+- Singly Linked List
+- Doubly Linked List
